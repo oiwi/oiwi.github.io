@@ -1,6 +1,1 @@
----
-layout: home
-title: "Oiwi's Academic Website"
----
-
-Hello world
+Hello world. Welcome to Oiwi's webpage.
