@@ -46,6 +46,14 @@ aside {
   margin: 0 auto 18px;
 }
 
+.page-image {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 4px;
+  margin: 20px 0 30px;
+}
+
 h1 {
   font-size: 1.7rem;
   margin-bottom: 10px;
