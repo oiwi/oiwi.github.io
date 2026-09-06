@@ -38,12 +38,12 @@ aside {
 }
 
 .photo {
-  width: 210px;
-  height: 210px;
+  width: 180px;
+  height: 180px;
   border-radius: 50%;
   object-fit: cover;
   object-position: center;
-  margin: 0 auto 20px;
+  margin: 0 auto 18px;
 }
 
 h1 {
