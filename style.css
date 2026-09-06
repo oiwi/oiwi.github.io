@@ -54,6 +54,15 @@ aside {
   margin: 20px 0 30px;
 }
 
+.page-image-portrait {
+  display: block;
+  width: 58%;
+  max-width: 400px;
+  height: auto;
+  border-radius: 4px;
+  margin: 20px auto 30px;
+}
+
 h1 {
   font-size: 1.7rem;
   margin-bottom: 10px;
