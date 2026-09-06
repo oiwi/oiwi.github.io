@@ -7,7 +7,7 @@ body {
 }
 
 nav {
-  max-width: 1100px;
+  max-width: 1050px;
   margin: 25px auto 0;
   padding: 0 30px;
   text-align: right;
@@ -25,12 +25,12 @@ nav a:hover {
 }
 
 .page {
-  max-width: 1100px;
+  max-width: 1050px;
   margin: 50px auto 60px;
   padding: 0 30px;
   display: grid;
-  grid-template-columns: 280px 1fr;
-  gap: 65px;
+  grid-template-columns: 250px 1fr;
+  gap: 70px;
 }
 
 aside {
@@ -38,12 +38,12 @@ aside {
 }
 
 .photo {
-  width: 250px;
-  height: 250px;
+  width: 210px;
+  height: 210px;
   border-radius: 50%;
   object-fit: cover;
   object-position: center;
-  margin: 0 auto 22px;
+  margin: 0 auto 20px;
 }
 
 h1 {
@@ -80,7 +80,7 @@ main a:hover {
 }
 
 main {
-  max-width: 720px;
+  max-width: 700px;
 }
 
 main h2 {
